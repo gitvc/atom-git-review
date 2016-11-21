@@ -1,7 +1,7 @@
 {
   "name": "git-review",
   "main": "./lib/git-review",
-  "version": "0.1.4",
+  "version": "0.3.1",
   "description": "Use git-review in atom.",
   "activationCommands": {
     "atom-text-editor": [
