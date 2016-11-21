@@ -1,14 +1,16 @@
 {
   "name": "git-review",
   "main": "./lib/git-review",
-  "version": "0.3.0",
+  "version": "0.1.4",
   "description": "Use git-review in atom.",
   "activationCommands": {
-    "atom-text-editor": [ "git-review:version",
-                          "git-review:menu",
-                          "git-review:submit",
-                          "git-review:list",
-                          "git-review:download" ]
+    "atom-text-editor": [
+      "git-review:version",
+      "git-review:menu",
+      "git-review:submit",
+      "git-review:list",
+      "git-review:download"
+    ]
   },
   "repository": "https://github.com/wenlock/atom-git-review",
   "license": "Apache2",
